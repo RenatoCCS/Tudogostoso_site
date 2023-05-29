@@ -25,7 +25,7 @@
   top: 24px;
   left: 321px;
   border-radius: 5px;
-  margin: auto;
+  margin: 24px auto;
   /*padding: 78px 26px 107px 27px;*/
 }
 
@@ -201,10 +201,10 @@
   text-transform: uppercase;
 }
 
-/*.profile-box {
+.profile-box {
   width: 238px;
   height: 85px;
-  display: flex;
+  display: inline-block;
   justify-content: center;
   align-items: center;
   flex-direction: column;
@@ -230,8 +230,7 @@
   line-height: 16px;
   text-align: center;
   color: var(--segunda-cor);
-}*/
-
+}
 .ingredients_section {
   background-color: var(--terceira-cor);
   width: 798px;
@@ -239,7 +238,7 @@
   left: 321px;
   top: 635px;
   border-radius: 5px;
-  margin: auto;
+  margin: 37px auto;
 }
 
 .icone_avental {
@@ -274,7 +273,7 @@
   font-weight: 400;
   font-size: 14px;
   line-height: 16px;
-  padding: 6px 250px 30px 27px;
+  padding: 6px 250px 90px 27px;
   margin-left: 27px;
 }
 
